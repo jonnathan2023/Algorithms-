@@ -60,4 +60,4 @@ From: Alg 12 ABB.pdf (Binary Search Trees)
 
 - TREE-MINIMUM (x) 
 
-TREE-MAXIMUM (x)
+- TREE-MAXIMUM (x)
